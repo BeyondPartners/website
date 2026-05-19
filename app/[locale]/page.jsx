@@ -42,7 +42,7 @@ export default async function Home({ params }) {
   }))
 
   return (
-    <div className="min-h-screen bg-white">
+    <div className="light-surface min-h-screen bg-white">
       <PrimaryNavbar locale={locale} dict={dict} />
       <main id={dict.sections.home} className="scroll-mt-32">
         <section id={dict.sections.program} className="scroll-mt-32">

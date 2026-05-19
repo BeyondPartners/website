@@ -179,10 +179,14 @@ const PrimaryNavbar = ({ locale, dict }) => {
             </li>
           </ul>
 
-          <div className={cn('mobile-menu max-lg:overflow-y-auto max-lg:!bg-white', showMobileMenu ? 'open' : 'close')}>
+          <div
+            className={cn(
+              'mobile-menu light-surface max-lg:overflow-y-auto max-lg:!bg-white',
+              showMobileMenu ? 'open' : 'close',
+            )}>
             <button
               type="button"
-              className="navbar-toggle-close absolute top-5 right-6 flex size-10 cursor-pointer items-center justify-center rounded-full bg-white outline-none"
+              className="navbar-toggle-close text-paragraph dark:text-paragraph absolute top-5 right-6 flex size-10 cursor-pointer items-center justify-center rounded-full bg-white outline-none"
               onClick={() => setShowMobileMenu(!showMobileMenu)}>
               <FaTimes />
             </button>

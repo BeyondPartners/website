@@ -24,6 +24,14 @@
   .badge-primary {
     @apply bg-primary text-paragraph dark:text-paragraph text-sm font-medium;
   }
+
+  /* Light backgrounds kept in dark mode (home, mobile nav) — keep body text readable */
+  .light-surface :where(h1, h2, h3, h4, h5, h6) {
+    @apply dark:text-paragraph;
+  }
+  .light-surface .nav-list :where(a) {
+    @apply dark:text-paragraph;
+  }
 }
 @media (min-width: 576px)  { .container { max-width: 640px; padding-left: 1.5rem; padding-right: 1.5rem; } }
 @media (min-width: 768px)  { .container { max-width: 900px; padding-left: 2rem; padding-right: 2rem; } }
