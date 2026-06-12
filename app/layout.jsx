@@ -6,6 +6,9 @@ import { ThemeModeProvider } from '@/utils/ThemeModeProvider'
 import { Inter, Playfair_Display, Plus_Jakarta_Sans } from 'next/font/google'
 import { cookies, headers } from 'next/headers'
 import PropTypes from 'prop-types'
+import Script from 'next/script'
+
+const GA_ID = 'G-F7237C9Y5S'
 
 const inter = Inter({
   weight: ['200', '300', '400', '500', '600', '700', '800'],
@@ -54,6 +57,15 @@ export default async function RootLayout({ children }) {
 
   return (
     <html lang={lang}>
+      <head>
+        <Script src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} strategy="afterInteractive" />
+        <Script id="ga4-init" strategy="afterInteractive">{`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', '${GA_ID}');
+        `}</Script>
+      </head>
       <body
         className={cn(
           'dark:bg-dark-300 relative overflow-x-hidden bg-white text-base antialiased',
