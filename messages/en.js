@@ -1,6 +1,6 @@
 const messages = {
   common: {
-    bookingCalendlyUrl: 'https://calendly.com/justin-warambourg/beyond-partners-consultation',
+    bookingCalendlyUrl: 'https://calendly.com/justin-warambourg-beyond-partners/20min',
     brandHomeAria: 'BeyondPartners — home',
   },
   metadata: {
