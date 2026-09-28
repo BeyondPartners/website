@@ -37,7 +37,7 @@ export default async function MentionsLegales({ params }) {
     <>
       <PrimaryNavbar locale={locale} dict={dict} />
       <main>
-        <section className="relative overflow-hidden pt-[250px] pb-150 max-md:pt-150">
+        <section className="relative overflow-hidden pt-[160px] pb-150 max-md:pt-150">
           <div className="absolute -top-[800px] right-0 left-0 h-full w-full bg-[url('/images/core-gradient.png')] bg-[length:600px_1000px] bg-center bg-no-repeat opacity-70 md:hidden"></div>
           <div className="relative container !max-w-[800px]">
             <div className="absolute top-20 left-1/2 -z-10 flex -translate-x-1/2 -translate-y-1/2 max-md:hidden">

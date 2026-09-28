@@ -230,7 +230,7 @@ body {
 }
 
 .legalContent ul li {
-  @apply font-jakarta dark:text-white;
+  @apply dark:text-white;
 }
 
 .legalContent strong {
