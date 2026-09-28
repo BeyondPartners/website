@@ -204,6 +204,43 @@ body {
   @apply mb-16;
 }
 
+/* Legal / CGV markdown content (denser structure than singlePage: h2 > h3 > h4 > p, hr separators) */
+.legalContent h2 {
+  @apply mt-0 mb-6 text-2xl font-semibold;
+}
+
+.legalContent h3 {
+  @apply mt-12 mb-4 text-xl font-semibold first:mt-0;
+}
+
+.legalContent h4 {
+  @apply mt-6 mb-2 text-base font-semibold;
+}
+
+.legalContent p {
+  @apply mb-4 leading-relaxed;
+}
+
+.legalContent hr {
+  @apply my-8 border-t border-gray-200 dark:border-[#313330];
+}
+
+.legalContent ul {
+  @apply mb-4 list-disc space-y-1 pl-5;
+}
+
+.legalContent ul li {
+  @apply font-jakarta dark:text-white;
+}
+
+.legalContent strong {
+  @apply font-semibold;
+}
+
+.legalContent a {
+  @apply text-secondary underline underline-offset-2;
+}
+
 /* Modal */
 .modal-bg {
   @apply fixed top-0 left-0 z-[1000000000000] h-full w-full bg-[#1c1c1c30] opacity-100 backdrop-blur-md;

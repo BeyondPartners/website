@@ -70,7 +70,7 @@ export default function CookieConsent({ gaId, locale, strings }) {
           </p>
           <p className="text-paragraph mb-5 text-sm leading-relaxed">
             {strings.text}{' '}
-            <Link href={`/${locale}/mentions-legales`} className="text-primary-500 underline underline-offset-2">
+            <Link href={`/${locale}/mentions-legales`} className="text-secondary underline underline-offset-2">
               {strings.learnMore}
             </Link>
           </p>
