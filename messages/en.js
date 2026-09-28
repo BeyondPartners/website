@@ -7,7 +7,7 @@ const messages = {
     home: { title: 'BeyondPartners' },
     legal: {
       title: 'Legal Notice',
-      description: 'Terms, privacy policy and legal information — Beyond Partners, a brand of LS Fintech.',
+      description: 'Terms, privacy policy and legal information — Beyond Partners.',
     },
     banner: {
       title: 'LinkedIn banner — proposal',

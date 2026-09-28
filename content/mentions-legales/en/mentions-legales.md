@@ -4,21 +4,19 @@ title: Legal notices
 
 ## Beyond Partners — Terms and legal information
 
-(brand of **LS Fintech**, operated by **LS FINTECH CONSULTING**)
-
 ---
 
 ### 1. General terms of sale
 
 #### 1.1. Purpose
 
-These General Terms of Sale (GTS) define the terms under which **Beyond Partners** (a brand of LS Fintech), on behalf of **LS FINTECH CONSULTING**, provides services to its business clients.
+These General Terms of Sale (GTS) define the terms under which **BEYOND PARTNERS** provides services to its business clients.
 
 ---
 
 #### 1.2. Services offered
 
-**Beyond Partners** (a brand of LS Fintech) provides consulting, project management, web and mobile application development, process automation, and integration of artificial intelligence solutions.
+**Beyond Partners** provides consulting, training, coaching, project management, web and mobile application development, process automation, and integration of artificial intelligence solutions.
 
 The exact scope of services is defined in a quote or commercial proposal accepted by the client.
 
@@ -46,7 +44,7 @@ Late payment incurs statutory late-payment interest and a fixed €40 collection
 
 Delivery timelines are indicative unless otherwise stated.
 
-**Beyond Partners** / **LS FINTECH CONSULTING** will inform the client of any factor likely to affect the initial schedule.
+**Beyond Partners** will inform the client of any factor likely to affect the initial schedule.
 
 ---
 
@@ -68,13 +66,13 @@ The client agrees to cooperate actively in the proper performance of the service
 
 #### 1.8. Intellectual property
 
-Deliverables remain the property of **LS FINTECH CONSULTING** until the invoice is paid in full.
+Deliverables remain the property of **BEYOND PARTNERS** until the invoice is paid in full.
 
 Once payment is made, usage rights are transferred to the client, unless otherwise specified.
 
 Scripts, prompts, automation templates, or monitoring environments delivered may be subject to a non-transferable exclusive right of use, unless the quote states otherwise.
 
-**Beyond Partners** / **LS FINTECH CONSULTING** reserve the right to mention completed projects anonymously in their references.
+**Beyond Partners** reserves the right to mention completed projects anonymously in its references.
 
 ---
 
@@ -86,9 +84,9 @@ Each party undertakes to keep strictly confidential all information and document
 
 #### 1.10. Liability
 
-**Beyond Partners** / **LS FINTECH CONSULTING** use reasonable efforts to deliver services that meet expectations.
+**Beyond Partners** uses reasonable efforts to deliver services that meet expectations.
 
-However, liability cannot be engaged in cases of force majeure, malfunction attributable to a third party, or inappropriate use of deliverables.
+However, its liability cannot be engaged in cases of force majeure, malfunction attributable to a third party, or inappropriate use of deliverables.
 
 ---
 
@@ -96,66 +94,68 @@ However, liability cannot be engaged in cases of force majeure, malfunction attr
 
 These GTS are governed by French law.
 
-Any dispute relating to interpretation or performance shall, failing amicable settlement, fall under the exclusive jurisdiction of the courts of the registered office of **LS FINTECH CONSULTING**.
+Any dispute relating to interpretation or performance shall, failing amicable settlement, fall under the exclusive jurisdiction of the courts of the registered office of **BEYOND PARTNERS**.
 
 ---
 
 ### 2. Privacy policy
 
-**Beyond Partners** (a brand of LS Fintech), in operating this site, does not collect personal data directly through this website, unless a later change is duly notified.
+The data controller for data collected through this site is **BEYOND PARTNERS**.
 
-No form, user tracking, or audience measurement is enabled on this information page, unless otherwise stated on other pages of the site.
+#### Data collected
 
-No data is shared with third parties or transferred outside the European Union without a legal basis and prior information.
+- **Audience measurement:** the site uses Google Analytics (Google Ireland Ltd.) to produce traffic statistics (pages viewed, visit duration, device type, approximate location).
+- **Booking:** calls are booked through Calendly (Calendly LLC). The information you enter (name, email, message) is used only to organise and prepare the call.
+- **Email:** messages sent to the contact address are used only to reply to them.
 
-#### Legal basis for processing
+No data is sold or transferred to third parties. Some providers (Google, Calendly, Vercel) may process data outside the European Union, notably in the United States, under appropriate safeguards (EU–US Data Privacy Framework or the European Commission’s standard contractual clauses).
 
-For transparency, any future collection would rely on legitimate interest or contract, in the context of providing services to a business client, or on consent where required by law.
+#### Legal basis and retention
+
+Processing relies on consent (audience measurement), on pre-contractual steps taken at your request (booking, business discussions), or on BEYOND PARTNERS’ legitimate interest in answering enquiries.
+
+Prospect data is kept for up to 3 years after the last contact; audience measurement data for up to 14 months.
 
 #### User rights
 
-Under the General Data Protection Regulation (GDPR), individuals have in particular the following rights regarding their data:
+Under the General Data Protection Regulation (GDPR) and the French Data Protection Act, individuals have the following rights regarding their data:
 
 - right of access,
 - right to rectification,
 - right to erasure,
 - right to object,
 - right to restriction of processing,
-- right to data portability where applicable.
+- right to data portability where applicable,
+- right to withdraw consent at any time.
 
-Requests may be sent to: [info@example.com](mailto:info@example.com) (update with your real contact).
+Requests may be sent to: [hello@beyond-partners.ai](mailto:hello@beyond-partners.ai). You may also lodge a complaint with the CNIL, the French data protection authority ([www.cnil.fr](https://www.cnil.fr)).
 
 ---
 
 ### 3. Legal notices
 
-**Company name:** LS FINTECH CONSULTING
+**Site publisher:** BEYOND PARTNERS
 
-**Legal form:** SARL (limited liability company)
+**Legal form:** SARL with a single shareholder (EURL, French limited liability company)
 
 **Share capital:** €1,000.00
 
-**RCS number:** 839 098 498 R.C.S. Versailles
+**RCS:** 109 499 343 R.C.S. Dunkerque
 
-**SIREN:** 839 098 498
+**SIRET (head office):** 109 499 343 00019
 
-**SIRET (head office):** 839 098 498 00018
+**EU VAT number:** FR72 109 499 343
 
-**EU VAT number:** FR06 839 098 498
+**NAF/APE code:** 62.01Z (Computer programming)
 
-**NAF/APE code:** 62.02A (IT systems and software consultancy)
+**Registered office:** 73 rue du Bois, 59940 Estaires, France
 
-**Registered office:** 50 allée du Clos Bonin, 78630 Orgeval, France
+**Publication director:** Justin Warambourg, managing director
 
-**Trading name:** Beyond Partners (a brand of LS Fintech)
-
-**Publication director:** the legal representative of LS FINTECH CONSULTING
-
-**Contact email:** [info@example.com](mailto:info@example.com)
+**Contact email:** [hello@beyond-partners.ai](mailto:hello@beyond-partners.ai)
 
 **Hosting:**
 
-Hostinger International Ltd.  
-61 Lordou Vironos Street, Larnaca 6023, Cyprus
-
-_The registration and hosting details above follow the public reference structure of the LS Fintech group; verify and update them if your legal or technical situation differs._
+Vercel Inc.  
+440 N Barranca Ave #4133, Covina, CA 91723, USA  
+[vercel.com](https://vercel.com)

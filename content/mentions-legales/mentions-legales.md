@@ -4,21 +4,19 @@ title: Mentions légales
 
 ## Beyond Partners — CGV et mentions légales
 
-(marque de **LS Fintech**, exploitée par **LS FINTECH CONSULTING**)
-
 ---
 
 ### 1. Conditions Générales de Vente
 
 #### 1.1. Objet
 
-Les présentes Conditions Générales de Vente (CGV) définissent les modalités de prestation de services proposées par **Beyond Partners** (marque de LS Fintech), au nom et pour le compte de la société **LS FINTECH CONSULTING**, auprès de ses clients professionnels.
+Les présentes Conditions Générales de Vente (CGV) définissent les modalités de prestation de services proposées par la société **BEYOND PARTNERS** auprès de ses clients professionnels.
 
 ---
 
 #### 1.2. Prestations proposées
 
-**Beyond Partners** (marque de LS Fintech) propose des prestations de conseil, de gestion de projet, de développement d'applications web et mobile, d'automatisation de processus et d'intégration de solutions d'intelligence artificielle.
+**Beyond Partners** propose des prestations de conseil, de formation, d'accompagnement, de gestion de projet, de développement d'applications web et mobile, d'automatisation de processus et d'intégration de solutions d'intelligence artificielle.
 
 Le contenu précis des prestations est défini dans un devis ou une proposition commerciale acceptée par le client.
 
@@ -46,7 +44,7 @@ Tout retard de paiement entraîne l'application de pénalités de retard calcul�
 
 Les délais de livraison sont donnés à titre indicatif sauf mention contraire.
 
-**Beyond Partners** / **LS FINTECH CONSULTING** s'engagent à informer le client de tout élément susceptible d'affecter le calendrier initialement prévu.
+**Beyond Partners** s'engage à informer le client de tout élément susceptible d'affecter le calendrier initialement prévu.
 
 ---
 
@@ -68,13 +66,13 @@ Le client s'engage à collaborer activement à la bonne exécution de la prestat
 
 #### 1.8. Propriété intellectuelle
 
-Les livrables demeurent la propriété de **LS FINTECH CONSULTING** jusqu'au paiement intégral de la facture.
+Les livrables demeurent la propriété de **BEYOND PARTNERS** jusqu'au paiement intégral de la facture.
 
 Une fois le paiement effectué, les droits d'utilisation sont transférés au client, sauf mention spécifique contraire.
 
 Les scripts, prompts, modèles d'automatisation ou environnements de monitoring livrés peuvent faire l'objet d'un droit d'usage exclusif non transférable, sauf mention contraire précisée dans le devis.
 
-**Beyond Partners** / **LS FINTECH CONSULTING** se réservent le droit de mentionner de manière anonyme les projets réalisés dans leurs références.
+**Beyond Partners** se réserve le droit de mentionner de manière anonyme les projets réalisés dans ses références.
 
 ---
 
@@ -86,9 +84,9 @@ Chaque partie s'engage à conserver strictement confidentielles toutes les infor
 
 #### 1.10. Responsabilité
 
-**Beyond Partners** / **LS FINTECH CONSULTING** mettent en œuvre tous les moyens nécessaires pour fournir une prestation conforme aux attentes.
+**Beyond Partners** met en œuvre tous les moyens nécessaires pour fournir une prestation conforme aux attentes.
 
-Toutefois, leur responsabilité ne pourra être engagée en cas de force majeure, de dysfonctionnement imputable à un tiers, ou d'utilisation inappropriée des livrables.
+Toutefois, sa responsabilité ne pourra être engagée en cas de force majeure, de dysfonctionnement imputable à un tiers, ou d'utilisation inappropriée des livrables.
 
 ---
 
@@ -96,66 +94,68 @@ Toutefois, leur responsabilité ne pourra être engagée en cas de force majeure
 
 Les présentes CGV sont régies par le droit français.
 
-Tout litige relatif à l'interprétation ou l'exécution des prestations sera, à défaut d'accord amiable, soumis à la compétence exclusive des tribunaux du ressort du siège social de **LS FINTECH CONSULTING**.
+Tout litige relatif à l'interprétation ou l'exécution des prestations sera, à défaut d'accord amiable, soumis à la compétence exclusive des tribunaux du ressort du siège social de **BEYOND PARTNERS**.
 
 ---
 
 ### 2. Politique de confidentialité
 
-**Beyond Partners** (marque de LS Fintech), dans le cadre de l'exploitation du présent site, ne collecte aucune donnée personnelle directement via ce site internet, sauf évolution ultérieure dûment signalée.
+Le responsable du traitement des données collectées via ce site est la société **BEYOND PARTNERS**.
 
-Aucune fonctionnalité de formulaire, de suivi utilisateur ou de mesure d'audience n'est activée sur cette page d'information, sauf mention contraire sur d'autres pages du site.
+#### Données collectées
 
-Aucune donnée n'est transmise à des tiers ni à l'extérieur de l'Union européenne sans base légale et information préalable.
+- **Mesure d'audience :** le site utilise Google Analytics (Google Ireland Ltd.) afin de produire des statistiques de fréquentation (pages consultées, durée de visite, type d'appareil, provenance approximative).
+- **Prise de rendez-vous :** la réservation d'un appel s'effectue via Calendly (Calendly LLC). Les informations saisies (nom, email, message) sont utilisées uniquement pour organiser et préparer l'échange.
+- **Échanges par email :** les messages envoyés à l'adresse de contact sont utilisés uniquement pour y répondre.
 
-#### Base légale du traitement
+Aucune donnée n'est vendue ni cédée à des tiers. Certains prestataires (Google, Calendly, Vercel) peuvent traiter des données hors de l'Union européenne, notamment aux États-Unis, dans le cadre de garanties appropriées (Data Privacy Framework UE–États-Unis ou clauses contractuelles types de la Commission européenne).
 
-À titre de transparence, toute collecte future reposerait sur la base légale de l'intérêt légitime ou du contrat, dans le cadre de la fourniture de prestations à un client professionnel, ou sur le consentement lorsque la loi l'exige.
+#### Base légale et durée de conservation
+
+Les traitements reposent sur le consentement (mesure d'audience), sur les mesures précontractuelles prises à votre demande (prise de rendez-vous, échanges commerciaux) ou sur l'intérêt légitime de BEYOND PARTNERS à répondre aux sollicitations.
+
+Les données de prospection sont conservées au maximum 3 ans après le dernier contact ; les données de mesure d'audience au maximum 14 mois.
 
 #### Droits des utilisateurs
 
-Conformément au Règlement Général sur la Protection des Données (RGPD), toute personne dispose notamment des droits suivants sur ses données :
+Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, toute personne dispose des droits suivants sur ses données :
 
 - droit d'accès,
 - droit de rectification,
 - droit à l'effacement,
 - droit d'opposition,
 - droit à la limitation du traitement,
-- droit à la portabilité lorsque applicable.
+- droit à la portabilité lorsque applicable,
+- droit de retirer son consentement à tout moment.
 
-Toute demande peut être adressée à : [info@example.com](mailto:info@example.com) (adresse à adapter selon votre contact réel).
+Toute demande peut être adressée à : [hello@beyond-partners.ai](mailto:hello@beyond-partners.ai). Vous pouvez également introduire une réclamation auprès de la CNIL ([www.cnil.fr](https://www.cnil.fr)).
 
 ---
 
 ### 3. Mentions légales
 
-**Dénomination sociale :** LS FINTECH CONSULTING
+**Éditeur du site :** BEYOND PARTNERS
 
-**Forme juridique :** SARL (Société à Responsabilité Limitée)
+**Forme juridique :** SARL à associé unique (EURL)
 
 **Capital social :** 1 000,00 €
 
-**Numéro RCS :** 839 098 498 R.C.S. Versailles
+**RCS :** 109 499 343 R.C.S. Dunkerque
 
-**SIREN :** 839 098 498
+**SIRET (siège) :** 109 499 343 00019
 
-**SIRET (siège) :** 839 098 498 00018
+**TVA intracommunautaire :** FR72 109 499 343
 
-**TVA intracommunautaire :** FR06 839 098 498
+**Code APE :** 62.01Z (Programmation informatique)
 
-**Code APE :** 62.02A (Conseil en systèmes et logiciels informatiques)
+**Siège social :** 73 rue du Bois, 59940 Estaires, France
 
-**Adresse du siège social :** 50 allée du Clos Bonin, 78630 Orgeval, France
+**Directeur de la publication :** Justin Warambourg, gérant
 
-**Nom commercial :** Beyond Partners (marque de LS Fintech)
-
-**Directeur de la publication :** le représentant légal de LS FINTECH CONSULTING
-
-**Email de contact :** [info@example.com](mailto:info@example.com)
+**Email de contact :** [hello@beyond-partners.ai](mailto:hello@beyond-partners.ai)
 
 **Hébergement du site :**
 
-Hostinger International Ltd.  
-61 Lordou Vironos Street, Larnaca 6023, Chypre
-
-_Les informations d'immatriculation et d'hébergeur ci-dessus reprennent la structure publique de référence du groupe LS Fintech ; vérifiez-les et mettez-les à jour si votre situation juridique ou technique diffère._
+Vercel Inc.  
+440 N Barranca Ave #4133, Covina, CA 91723, États-Unis  
+[vercel.com](https://vercel.com)
