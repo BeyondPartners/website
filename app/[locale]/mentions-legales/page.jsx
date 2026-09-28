@@ -47,7 +47,7 @@ export default async function MentionsLegales({ params }) {
             </div>
 
             <div className="mx-auto mb-14 max-w-[650px] text-center max-md:mb-10">
-              <h2 className="mb-3 leading-[1.33] font-semibold">{dict.legalPage.h2}</h2>
+              <h2 className="mb-3 leading-[1.33]">{dict.legalPage.h2}</h2>
               <p className="text-tagline-2">
                 <Link href={`/${locale}`} className="text-secondary hover:underline">
                   {dict.legalPage.backHome}

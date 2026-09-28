@@ -205,12 +205,13 @@ body {
 }
 
 /* Legal / CGV markdown content (denser structure than singlePage: h2 > h3 > h4 > p, hr separators) */
+/* h2/h3 keep the sitewide heading size/weight from typography.css (same as the home page) — only spacing is adjusted here. */
 .legalContent h2 {
-  @apply mt-0 mb-6 text-2xl font-semibold;
+  @apply mt-0 mb-6;
 }
 
 .legalContent h3 {
-  @apply mt-12 mb-4 text-xl font-semibold first:mt-0;
+  @apply mt-12 mb-4 first:mt-0;
 }
 
 .legalContent h4 {
