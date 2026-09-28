@@ -1,3 +1,4 @@
+import CookieSettingsButton from '@/components/consent/CookieSettingsButton'
 import { DEFAULT_LOCALE } from '@/lib/i18n/config'
 import { getDictionary } from '@/lib/i18n/get-dictionary'
 import footerSeperator from '@/public/images/footer-seperator.svg'
@@ -35,6 +36,7 @@ const Footer = ({ locale = DEFAULT_LOCALE, dict: dictProp }) => {
               className="text-paragraph hover:text-secondary cursor-pointer text-sm transition-colors duration-300">
               {dict.footer.legal}
             </Link>
+            <CookieSettingsButton label={dict.footer.cookieSettings} />
             <ul className="flex items-center">
               <li>
                 <Link

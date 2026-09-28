@@ -1,12 +1,13 @@
 import '@/styles/theme.css'
+import CookieConsent from '@/components/consent/CookieConsent'
 import { DEFAULT_LOCALE, LOCALE_HEADER, isValidLocale } from '@/lib/i18n/config'
+import { getDictionary } from '@/lib/i18n/get-dictionary'
 import { getSiteUrl } from '@/lib/site-url'
 import { cn } from '@/utils/cn'
 import { ThemeModeProvider } from '@/utils/ThemeModeProvider'
 import { Inter, Playfair_Display, Plus_Jakarta_Sans } from 'next/font/google'
 import { cookies, headers } from 'next/headers'
 import PropTypes from 'prop-types'
-import Script from 'next/script'
 
 const GA_ID = 'G-F7237C9Y5S'
 
@@ -57,15 +58,6 @@ export default async function RootLayout({ children }) {
 
   return (
     <html lang={lang}>
-      <head>
-        <Script src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} strategy="afterInteractive" />
-        <Script id="ga4-init" strategy="afterInteractive">{`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', '${GA_ID}');
-        `}</Script>
-      </head>
       <body
         className={cn(
           'dark:bg-dark-300 relative overflow-x-hidden bg-white text-base antialiased',
@@ -74,6 +66,7 @@ export default async function RootLayout({ children }) {
           playfair.variable,
         )}>
         <ThemeModeProvider>{children}</ThemeModeProvider>
+        <CookieConsent gaId={GA_ID} locale={lang} strings={getDictionary(lang).cookies} />
       </body>
     </html>
   )

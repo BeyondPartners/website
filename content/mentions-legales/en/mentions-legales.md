@@ -104,7 +104,7 @@ The data controller for data collected through this site is **BEYOND PARTNERS**.
 
 #### Data collected
 
-- **Audience measurement:** the site uses Google Analytics (Google Ireland Ltd.) to produce traffic statistics (pages viewed, visit duration, device type, approximate location).
+- **Audience measurement:** the site uses Google Analytics (Google Ireland Ltd.) to produce traffic statistics (pages viewed, visit duration, device type, approximate location). Google Analytics is only loaded after you consent through the cookie banner; if you decline, no audience measurement cookie is set. You can change your choice at any time via the “Cookie settings” link at the bottom of the page.
 - **Booking:** calls are booked through Calendly (Calendly LLC). The information you enter (name, email, message) is used only to organise and prepare the call.
 - **Email:** messages sent to the contact address are used only to reply to them.
 

@@ -313,6 +313,7 @@ const messages = {
   },
   footer: {
     legal: 'Legal notices',
+    cookieSettings: 'Cookie settings',
     linkedInAria: 'Beyond Partners on LinkedIn',
     copyright: `${new Date().getFullYear()} Beyond Partners. All rights reserved.`,
     language: {
@@ -322,6 +323,13 @@ const messages = {
       switchToFr: 'Afficher le site en français',
       switchToEn: 'Show site in English',
     },
+  },
+  cookies: {
+    title: 'A quick cookie? 🍪',
+    text: "We'd like to use Google Analytics to see which pages are useful and improve the site. That's it: no ads, no selling your data. You can change your mind anytime at the bottom of the page.",
+    learnMore: 'Learn more',
+    accept: 'Sounds good',
+    refuse: 'No thanks',
   },
   legalPage: {
     backHome: 'Back to home',

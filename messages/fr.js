@@ -317,6 +317,7 @@ const messages = {
   },
   footer: {
     legal: 'Mentions Légales',
+    cookieSettings: 'Gestion des cookies',
     legalPath: '/mentions-legales',
     linkedInAria: 'Beyond Partners sur LinkedIn',
     copyright: `${new Date().getFullYear()} Beyond Partners. Tous droits réservés.`,
@@ -327,6 +328,13 @@ const messages = {
       switchToFr: 'Afficher le site en français',
       switchToEn: 'Show site in English',
     },
+  },
+  cookies: {
+    title: 'Un petit cookie ? 🍪',
+    text: "On aimerait utiliser Google Analytics pour voir quelles pages vous sont utiles et améliorer le site. C'est tout : pas de pub, pas de revente de données. Vous pouvez changer d'avis quand vous voulez, en bas de page.",
+    learnMore: 'En savoir plus',
+    accept: 'OK pour moi',
+    refuse: 'Non merci',
   },
   legalPage: {
     backHome: "Retour à l'accueil",

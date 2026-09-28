@@ -104,7 +104,7 @@ Le responsable du traitement des données collectées via ce site est la sociét
 
 #### Données collectées
 
-- **Mesure d'audience :** le site utilise Google Analytics (Google Ireland Ltd.) afin de produire des statistiques de fréquentation (pages consultées, durée de visite, type d'appareil, provenance approximative).
+- **Mesure d'audience :** le site utilise Google Analytics (Google Ireland Ltd.) afin de produire des statistiques de fréquentation (pages consultées, durée de visite, type d'appareil, provenance approximative). Google Analytics n'est chargé qu'après votre accord via le bandeau cookies ; en cas de refus, aucun cookie de mesure d'audience n'est déposé. Vous pouvez modifier votre choix à tout moment via le lien « Gestion des cookies » en bas de page.
 - **Prise de rendez-vous :** la réservation d'un appel s'effectue via Calendly (Calendly LLC). Les informations saisies (nom, email, message) sont utilisées uniquement pour organiser et préparer l'échange.
 - **Échanges par email :** les messages envoyés à l'adresse de contact sont utilisés uniquement pour y répondre.
 
