@@ -313,6 +313,7 @@ const messages = {
   },
   footer: {
     legal: 'Legal notices',
+    candiTerms: 'Candi terms',
     cookieSettings: 'Cookie settings',
     linkedInAria: 'Beyond Partners on LinkedIn',
     copyright: `${new Date().getFullYear()} Beyond Partners. All rights reserved.`,

@@ -317,6 +317,7 @@ const messages = {
   },
   footer: {
     legal: 'Mentions Légales',
+    candiTerms: 'CGA Candi',
     cookieSettings: 'Gestion des cookies',
     legalPath: '/mentions-legales',
     linkedInAria: 'Beyond Partners sur LinkedIn',

@@ -36,6 +36,11 @@ const Footer = ({ locale = DEFAULT_LOCALE, dict: dictProp }) => {
               className="text-paragraph hover:text-secondary cursor-pointer text-sm transition-colors duration-300">
               {dict.footer.legal}
             </Link>
+            <Link
+              href={`/${locale}/candi/cga`}
+              className="text-paragraph hover:text-secondary cursor-pointer text-sm transition-colors duration-300">
+              {dict.footer.candiTerms}
+            </Link>
             <CookieSettingsButton label={dict.footer.cookieSettings} />
             <ul className="flex items-center">
               <li>
