@@ -2,7 +2,7 @@
 title: Conditions Générales d'Abonnement — Candi
 ---
 
-*Version 1.0 — en vigueur au 30 octobre 2026*
+*Version 1.0 — en vigueur au 12 octobre 2026*
 
 ### Article 1 — Parties et objet
 
